@@ -44,8 +44,7 @@
 <br>
 <hr>
 <h5>#CONTACT (İLETİŞİM)</h5>
-- <h5>Vize - Final ve Bitirme Projeleriniz İçin Benimle İletişime Geçebilirsiniz.</h5>
-- <h5>You can contact me regarding your midterm, final, and graduation projects.</h5>
+- <span style="background-color: black;"><font color="white">Vize - Final ve Bitirme Projeleriniz İçin Benimle İletişime Geçebilirsiniz.</font></span>
 - E-Mail: <font color="blue">saitberkey@gmail.com</font>
 - WhatsApp: <font color="blue">+905377642823</font>
 - Instagram: <a href="https://www.instagram.com/saitberki/" target="_blank"><font color="blue">instagram.com/saitberki/</font></a>
