@@ -26,7 +26,7 @@
  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/9-Southern%20Front.png?raw=true" alt="Southern Front" width="182px" height="128px">
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/10-Eastern%20Front.png?raw=true" target="_blank">
  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/10-Eastern%20Front.png?raw=true" alt="Eastern Front" width="182px" height="128px">
- <br>
+ <br><br>
 - <span style="background-color: black;"><font color="white">Drawing of a Single-Story Building - <u><b><i>08.10.2026 - saitberki</i></b></u> </font></span>
 - <span style="background-color: black;"><font color="white">Examples of Architectural Technical Drawings </font></span>
 - <span style="background-color: black;"><font color="white">Cross-Sections of Foundations, Stairs, Chimneys, Windows, and Doors Multiply Scale, <u><b><i>Autocad</i></b></u> </font></span>
