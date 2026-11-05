@@ -56,3 +56,14 @@
   src="https://platform-api.sharethis.com/js/sharethis.js#property=64f854f97373fd001949deae&product=inline-share-buttons"
   async="async"></script>
 <!-- ShareThis END -->
+
+<div id="google_translate_element"></div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'tr'}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
