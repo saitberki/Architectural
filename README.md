@@ -4,26 +4,28 @@
 - <span style="background-color: black;"><font color="white">Examples of Architectural Technical Drawings </font></span>
 - <span style="background-color: black;"><font color="white">1xFloor, 4xSection, 4xFront, 1/50 Scale, <u><b><i>Autocad</i></b></u> </font></span>
 <br><br>
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20PNG/1-Plan.png?raw=true" target="_blank">
- <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20PNG/1-Plan.png?raw=true" alt="Plan Çizimi" width="182px" height="128px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/1-System%20Plan.png?raw=true" target="_blank">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/1-System%20Plan.png?raw=true" alt="System Plan" width="182px" height="128px">
+ <a href="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/2-Floor%20Plan.png?raw=true" target="_blank">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/2-Floor%20Plan.png?raw=true" alt="Floor Plan" width="182px" height="128px">
 <br>
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20PNG/2-A-A%20Kesiti.png?raw=true" target="_blank">
- <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20PNG/2-A-A%20Kesiti.png?raw=true" alt="A-A Kesiti Çizimi" width="182px" height="128px">
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20PNG/3-B-B%20Kesiti.png?raw=true" target="_blank">
- <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20PNG/3-B-B%20Kesiti.png?raw=true" alt="B-B Kesiti Çizimi" width="182px" height="128px">
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20PNG/4-C-C%20Kesiti.png?raw=true" target="_blank">
- <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20PNG/4-C-C%20Kesiti.png?raw=true" alt="C-C Kesiti Çizimi" width="182px" height="128px">
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20PNG/5-D-D%20Kesiti.png?raw=true" target="_blank">
- <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20PNG/5-D-D%20Kesiti.png?raw=true" alt="D-D Kesiti Çizimi" width="182px" height="128px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/3-Section%201-1.png?raw=true" target="_blank">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/3-Section%201-1.png?raw=true" alt="Section 1:1" width="182px" height="128px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/4-Section%202-2.png?raw=true" target="_blank">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/4-Section%202-2.png?raw=true" alt="Section 2:2" width="182px" height="128px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/5-Section%203-3.png?raw=true" target="_blank">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/5-Section%203-3.png?raw=true" alt="Section 3:3" width="182px" height="128px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/6-Section%204-4.png?raw=true" target="_blank">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/6-Section%204-4.png?raw=true" alt="Section 4:4" width="182px" height="128px">
 <br>
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20PNG/6-Kuzey%20Cephesi.png?raw=true" target="_blank">
- <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20PNG/6-Kuzey%20Cephesi.png?raw=true" alt="Kuzey Cephesi Çizimi" width="182px" height="128px">
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20PNG/7-Bat%C4%B1%20Cephesi.png?raw=true" target="_blank">
- <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20PNG/7-Bat%C4%B1%20Cephesi.png?raw=true" alt="Batı Cephesi Çizimi" width="182px" height="128px">
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20PNG/8-G%C3%BCney%20Cephesi.png?raw=true" target="_blank">
- <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20PNG/8-G%C3%BCney%20Cephesi.png?raw=true" alt="Güney Cephesi Çizimi" width="182px" height="128px">
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20PNG/9-Do%C4%9Fu%20Cephesi.png?raw=true" target="_blank">
- <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20PNG/9-Do%C4%9Fu%20Cephesi.png?raw=true" alt="Doğu Cephesi Çizimi" width="182px" height="128px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/7-Northern%20Front.png?raw=true" target="_blank">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/7-Northern%20Front.png?raw=true" alt="Northern Front" width="182px" height="128px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/8-Westhern%20Front.png?raw=true" target="_blank">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/8-Westhern%20Front.png?raw=true" alt="Westhern Front" width="182px" height="128px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/9-Southern%20Front.png?raw=true" target="_blank">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/9-Southern%20Front.png?raw=true" alt="Southern Front" width="182px" height="128px">
+<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/10-Eastern%20Front.png?raw=true" target="_blank">
+ <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/10-Eastern%20Front.png?raw=true" alt="Eastern Front" width="182px" height="128px">
  <br>
 - <span style="background-color: black;"><font color="white">Drawing of a Single-Story Building - <u><b><i>08.10.2026 - saitberki</i></b></u> </font></span>
 - <span style="background-color: black;"><font color="white">Examples of Architectural Technical Drawings </font></span>
