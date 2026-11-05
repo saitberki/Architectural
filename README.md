@@ -43,7 +43,9 @@
  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20Detay%20PNG/14-Kap%C4%B1%20Detay%C4%B1.png?raw=true" alt="Kapı Detayı" width="180px" height="254px">
 <br>
 <hr>
-<h5>CONTACT</h5>
+<h5>#CONTACT</h5>
+- <h5>Vize - Final ve Bitirme Projeleriniz İçin Benimle İletişime Geçebilirsiniz.
+You can contact me regarding your midterm, final, and graduation projects.</h5>
 - E-Mail: <font color="blue">saitberkey@gmail.com</font>
 - Instagram: <a href="https://www.instagram.com/saitberki/" target="_blank"><font color="blue">instagram.com/saitberki/</font></a>
 - berki-architectural/2026<a href="https://github.com" target="_blank"><font color="blue">@github-webpage</font></a>
