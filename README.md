@@ -51,5 +51,11 @@
 berki-architectural/2026<a href="https://github.com" target="_blank"><font color="blue">@github-webpage</font></a>
 </center>
 <left><a href="https://www.freecounterstat.com" title="free hit counter"><img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=fag9hp94aa84ruq1dy528zy1gemahwd1" border="0" title="free hit counter" alt="free hit counter"></a></left>
+ 
+<!-- ShareThis BEGIN -->
+<script type="text/javascript"
+  src="https://platform-api.sharethis.com/js/sharethis.js#property=64f854f97373fd001949deae&product=inline-share-buttons"
+  async="async"></script>
+<!-- ShareThis END -->
 
 
