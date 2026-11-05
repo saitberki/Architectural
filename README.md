@@ -45,7 +45,7 @@
 <hr>
 <h5>#CONTACT (İLETİŞİM)</h5>
 - <h5>Vize - Final ve Bitirme Projeleriniz İçin Benimle İletişime Geçebilirsiniz.
-You can contact me regarding your midterm, final, and graduation projects.</h5>
+- You can contact me regarding your midterm, final, and graduation projects.</h5>
 - E-Mail: <font color="blue">saitberkey@gmail.com</font>
 - Instagram: <a href="https://www.instagram.com/saitberki/" target="_blank"><font color="blue">instagram.com/saitberki/</font></a>
 - berki-architectural/2026<a href="https://github.com" target="_blank"><font color="blue">@github-webpage</font></a>
