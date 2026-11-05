@@ -43,7 +43,7 @@
  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20Detay%20PNG/14-Kap%C4%B1%20Detay%C4%B1.png?raw=true" alt="Kapı Detayı" width="180px" height="254px">
 <br>
 <hr>
-<h5># CONTACT (İLETİŞİM)</h5>
+<h5>CONTACT</h5>
 - E-Mail: <font color="blue">saitberkey@gmail.com</font>
 - Instagram: <a href="https://www.instagram.com/saitberki/" target="_blank"><font color="blue">instagram.com/saitberki/</font></a>
 - <left><a href="https://www.freecounterstat.com" title="free hit counter"><img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=fag9hp94aa84ruq1dy528zy1gemahwd1" border="0" title="free hit counter" alt="free hit counter"></a></left>
