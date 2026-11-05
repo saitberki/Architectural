@@ -1,6 +1,6 @@
 <h1>Drawing Samples Page</h1>
 
-<div id="google_translate_element"></div>
+- <div id="google_translate_element"></div>
 <script type="text/javascript">
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'tr'}, 'google_translate_element');
