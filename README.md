@@ -42,41 +42,6 @@
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20Detay%20PNG/14-Kap%C4%B1%20Detay%C4%B1.png?raw=true" target="_blank">
  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20Detay%20PNG/14-Kap%C4%B1%20Detay%C4%B1.png?raw=true" alt="Kapı Detayı" width="180px" height="254px">
 <br> 
-<h2>Arakat Daire Çizimi</h2>
-- <span style="background-color: black;"><font color="white">Drawing of an Intermediate Floor Apartment - <u><b><i>12.12.2023 - saitberki</i></b></u> </font></span>
-- <span style="background-color: black;"><font color="white">Examples of Interior Design Drawings </font></span>
-- <span style="background-color: black;"><font color="white">1xSalon, 2xRooms, 1xKitchen, 1xToilet, 1xBalcony, 1/50 Scale, <u><b><i>Autocad</i></b></u> </font></span>
-<br>
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Interior%20Architectural%20PNG/1-Oda%20%C3%87izimi.jpg?raw=true" target="_blank">
-  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Interior%20Architectural%20PNG/1-Oda%20%C3%87izimi.jpg?raw=true" alt="Oda Çizimi" width="180px" height="254px">
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Interior%20Architectural%20PNG/3-Mutfak%20%C3%87izimi.jpg?raw=true" target="_blank">
-  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Interior%20Architectural%20PNG/3-Mutfak%20%C3%87izimi.jpg?raw=true" alt="Mutfak Çizimi" width="180px" height="254px">
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Interior%20Architectural%20PNG/4-Banyo%20%C3%87izimi.jpg?raw=true" target="_blank">
-  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Interior%20Architectural%20PNG/4-Banyo%20%C3%87izimi.jpg?raw=true" alt="Banyo Çizimi" width="180px" height="254px">
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Interior%20Architectural%20PNG/2-Salon%20%C3%87izimi.jpg?raw=true" target="_blank">
-  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Interior%20Architectural%20PNG/2-Salon%20%C3%87izimi.jpg?raw=true" alt="Salon Çizimi" width="200px" height="141px">
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Interior%20Architectural%20PNG/5-Arakat%20Daire%20%C3%87izimi.jpg?raw=true" target="_blank">
-  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Interior%20Architectural%20PNG/5-Arakat%20Daire%20%C3%87izimi.jpg?raw=true" alt="Arakat Daire Çizimi" width="180px" height="121px">
-- <span style="background-color: black;"><font color="white">Door and Window Details for the Intermediate Floor - <u><b><i>24.09.2024 - saitberki</i></b></u> </font></span>
-  <br>
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Interior%20Architectural%20PNG/Kap%C4%B1%20Detay%C4%B1-1.png?raw=true" target="_blank">
-  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Interior%20Architectural%20PNG/Kap%C4%B1%20Detay%C4%B1-1.png?raw=true" alt="Kapı 1" width="180px" height="254px">
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Interior%20Architectural%20PNG/Kap%C4%B1%20Detay%C4%B1-2.png?raw=true" target="_blank">
-  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Interior%20Architectural%20PNG/Kap%C4%B1%20Detay%C4%B1-2.png?raw=true" alt="Kapı 2" width="180px" height="254px">
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Interior%20Architectural%20PNG/Kap%C4%B1%20Detay%C4%B1-3.png?raw=true" target="_blank">
-  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Interior%20Architectural%20PNG/Kap%C4%B1%20Detay%C4%B1-3.png?raw=true" alt="Kapı 3" width="180px" height="254px">
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Interior%20Architectural%20PNG/Pencere%20Detay%C4%B1-1.png?raw=true" target="_blank">
-  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Interior%20Architectural%20PNG/Pencere%20Detay%C4%B1-1.png?raw=true" alt="Pencere 1" width="180px" height="254px">
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Interior%20Architectural%20PNG/Pencere%20Detay%C4%B1-2.png?raw=true" target="_blank">
-  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Interior%20Architectural%20PNG/Pencere%20Detay%C4%B1-2.png?raw=true" alt="Pencere 2" width="180px" height="254px">
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Interior%20Architectural%20PNG/Pencere%20Detay%C4%B1-3.png?raw=true" target="_blank">
-  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Interior%20Architectural%20PNG/Pencere%20Detay%C4%B1-3.png?raw=true" alt="Pencere 3" width="180px" height="254px">
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Interior%20Architectural%20PNG/Pencere%20Detay%C4%B1-4.png?raw=true" target="_blank">
-  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Interior%20Architectural%20PNG/Pencere%20Detay%C4%B1-4.png?raw=true" alt="Pencere 4" width="180px" height="254px">
-<a href="https://github.com/saitberki/Berki-Architectural/blob/main/Interior%20Architectural%20PNG/Pencere%20Detay%C4%B1-5.png?raw=true" target="_blank">
-  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Interior%20Architectural%20PNG/Pencere%20Detay%C4%B1-5.png?raw=true" alt="Pencere 4" width="180px" height="254px">
-<head><script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=6a6f55f1419b02b83ea956c9&product=sticky-share-buttons' async='async'></script></head>
-<hr>
 <h5># CONTACT (İLETİŞİM)</h5>
 - E-Mail: <font color="blue">saitberkey@gmail.com</font>
 - Instagram: <a href="https://www.instagram.com/saitberki/" target="_blank"><font color="blue">instagram.com/saitberki/</font></a>
