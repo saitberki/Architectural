@@ -79,7 +79,6 @@
 <hr>
 <h5># CONTACT (İLETİŞİM)</h5>
 - E-Mail: <font color="blue">saitberkey@gmail.com</font>
-- Telegram: <a href="https://t.me/saitberki" target="_blank"><font color="blue">t.me/saitberki/</font></a>
 - Instagram: <a href="https://www.instagram.com/saitberki/" target="_blank"><font color="blue">instagram.com/saitberki/</font></a>
 <hr>
 <center>
