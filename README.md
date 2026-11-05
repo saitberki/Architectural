@@ -41,7 +41,8 @@
  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20Detay%20PNG/13-Pencere%20Detay%C4%B1.png?raw=true" alt="Pencere Detayı" width="180px" height="254px">
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20Detay%20PNG/14-Kap%C4%B1%20Detay%C4%B1.png?raw=true" target="_blank">
  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Mimari%20Detay%20PNG/14-Kap%C4%B1%20Detay%C4%B1.png?raw=true" alt="Kapı Detayı" width="180px" height="254px">
-<br> 
+<br>
+<hr>
 <h5># CONTACT (İLETİŞİM)</h5>
 - E-Mail: <font color="blue">saitberkey@gmail.com</font>
 - Instagram: <a href="https://www.instagram.com/saitberki/" target="_blank"><font color="blue">instagram.com/saitberki/</font></a>
