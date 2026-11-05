@@ -1,4 +1,13 @@
 <h1>Drawing Samples Page</h1>
+
+<div id="google_translate_element"></div>
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'tr'}, 'google_translate_element');
+}
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
 - <span style="background-color: black;"><font color="white">Drawing of a Single-Story Building - <u><b><i>21.09.2026 - saitberki</i></b></u> </font></span>
 - <span style="background-color: black;"><font color="white">Examples of Architectural Technical Drawings </font></span>
 - <span style="background-color: black;"><font color="white">2xFloor, 4xSection, 4xFront, 1/1 Scale, <u><b><i>Autocad</i></b></u> </font></span>
@@ -56,14 +65,3 @@
   src="https://platform-api.sharethis.com/js/sharethis.js#property=64f854f97373fd001949deae&product=inline-share-buttons"
   async="async"></script>
 <!-- ShareThis END -->
-
-<div id="google_translate_element"></div>
-
-<script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'tr'}, 'google_translate_element');
-}
-</script>
-
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
