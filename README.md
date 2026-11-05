@@ -1,5 +1,3 @@
-<h1>Drawing Samples Page</h1>
-
 - <div id="google_translate_element"></div>
 <script type="text/javascript">
 function googleTranslateElementInit() {
