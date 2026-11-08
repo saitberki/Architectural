@@ -50,14 +50,13 @@ function googleTranslateElementInit() {
 <br>
 <hr>
 <h5>#CONTACT (İLETİŞİM)</h5>
-<hr>
 - E-Mail: <font color="blue">saitberkey@gmail.com</font>
 - WhatsApp: <font color="blue">+905377642823</font>
 - Instagram: <a href="https://www.instagram.com/saitberki/" target="_blank"><font color="blue">instagram.com/saitberki/</font></a>
 - berki-architectural/2026<a href="https://github.com" target="_blank"><font color="blue">@github-webpage</font></a>
 - <span style="background-color: black;"><font color="white">Vize - Final ve Bitirme Projeleriniz İçin Benimle İletişime Geçebilirsiniz.</font></span>
 - <left><a href="https://www.freecounterstat.com" title="free hit counter"><img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=fag9hp94aa84ruq1dy528zy1gemahwd1" border="0" title="free hit counter" alt="free hit counter"></a></left> 
-
+<hr>
 <!-- ShareThis BEGIN -->
 <script type="text/javascript"
   src="https://platform-api.sharethis.com/js/sharethis.js#property=64f854f97373fd001949deae&product=inline-share-buttons"
