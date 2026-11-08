@@ -54,6 +54,7 @@ function googleTranslateElementInit() {
 - WhatsApp: <font color="blue">+905377642823</font>
 - Instagram: <a href="https://www.instagram.com/saitberki/" target="_blank"><font color="blue">instagram.com/saitberki/</font></a>
 - <span style="background-color: black;"><font color="white">Vize - Final ve Bitirme Projeleriniz İçin Benimle İletişime Geçebilirsiniz.</font></span>
+- <span style="background-color: black;"><font color="white">You Can Contact me Regarding Your Midterm, Final, and Graduation Projects./font></span>
 - <left><a href="https://www.freecounterstat.com" title="free hit counter"><img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=fag9hp94aa84ruq1dy528zy1gemahwd1" border="0" title="free hit counter" alt="free hit counter"></a></left> 
 <hr>
 <center>saitberki-Architectural/2026<a href="https://saitberki.github.io/Architectural/" target="_blank"><font color="blue">@github-webpage</font></a></center>
