@@ -38,15 +38,15 @@ function googleTranslateElementInit() {
 - <span style="background-color: black;"><font color="white">Cross-Sections of Foundations, Stairs, Chimneys, Windows, and Doors Multiply Scale, <u><b><i>Autocad</i></b></u> </font></span>
 <br><br>
 <a href="" target="_blank">
- <img src="" alt="Temel Sistemi Kesiti" width="180px" height="254px">
+ <img src="" alt="" width="180px" height="254px">
 <a href="" target="_blank">
- <img src="" alt="Merdiven Sistemi Kesiti" width="180px" height="254px">
+ <img src="" alt="" width="180px" height="254px">
 <a href="" target="_blank">
- <img src="" alt="Baca Sistemi Kesiti" width="180px" height="254px">
+ <img src="" alt="" width="180px" height="254px">
 <a href="" target="_blank">
- <img src="" alt="Pencere Detayı" width="180px" height="254px">
+ <img src="" alt="" width="180px" height="254px">
 <a href="" target="_blank">
- <img src="" alt="Kapı Detayı" width="180px" height="254px">
+ <img src="" alt="" width="180px" height="254px">
 <br>
 <hr>
 <h5>#CONTACT (İLETİŞİM)</h5>
