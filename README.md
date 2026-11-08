@@ -58,6 +58,7 @@ function googleTranslateElementInit() {
 - <left><a href="https://www.freecounterstat.com" title="free hit counter"><img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=fag9hp94aa84ruq1dy528zy1gemahwd1" border="0" title="free hit counter" alt="free hit counter"></a></left> 
 <hr>
 <center>saitberki-Architectural/2026<a href="https://saitberki.github.io/Architectural/" target="_blank"><font color="blue">@github-webpage</font></a></center>
+<br>
 <!-- ShareThis BEGIN -->
 <script type="text/javascript"
   src="https://platform-api.sharethis.com/js/sharethis.js#property=64f854f97373fd001949deae&product=inline-share-buttons"
