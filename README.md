@@ -12,13 +12,13 @@ function googleTranslateElementInit() {
 <br><br>
 <a href="https://github.com/saitberki/Architectural/blob/main/Architecture/1-System%20Plan.png?raw=true" target="_blank">
  <img src="https://github.com/saitberki/Architectural/blob/main/Architecture/1-System%20Plan.png?raw=true" alt="System Plan" width="182px" height="128px">
- <a href="https://github.com/saitberki/Architectural/blob/main/Architecture/2-Floor%20Plan.png?raw=true" target="_blank">
+<a href="https://github.com/saitberki/Architectural/blob/main/Architecture/2-Floor%20Plan.png?raw=true" target="_blank">
  <img src="https://github.com/saitberki/Architectural/blob/main/Architecture/2-Floor%20Plan.png?raw=true" alt="Floor Plan" width="182px" height="128px">
 <br>
 <a href="https://github.com/saitberki/Architectural/blob/main/Architecture/3-Section%201-1.png?raw=true" target="_blank">
  <img src="https://github.com/saitberki/Architectural/blob/main/Architecture/3-Section%201-1.png?raw=true" alt="Section 1:1" width="182px" height="128px">
 <a href="https://github.com/saitberki/Architectural/blob/main/Architecture/4-Section%202-2.png?raw=true" target="_blank">
- <img src="https://github.com/saitberkiArchitectural/blob/main/Architecture/4-Section%202-2.png?raw=true" alt="Section 2:2" width="182px" height="128px">
+ <img src="https://github.com/saitberki/Architectural/blob/main/Architecture/4-Section%202-2.png?raw=true" alt="Section 2:2" width="182px" height="128px">
 <a href="https://github.com/saitberki/Architectural/blob/main/Architecture/5-Section%203-3.png?raw=true" target="_blank">
  <img src="https://github.com/saitberki/Architectural/blob/main/Architecture/5-Section%203-3.png?raw=true" alt="Section 3:3" width="182px" height="128px">
 <a href="https://github.com/saitberki/Architectural/blob/main/Architecture/6-Section%204-4.png?raw=true" target="_blank">
