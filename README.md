@@ -6,9 +6,9 @@ function googleTranslateElementInit() {
 </script>
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
-- <span style="background-color: #808080;"><font color="black">Drawing of a Single-Story Building - <u><b><i>21.09.2026 - saitberki</i></b></u> </font></span>
-- <span style="background-color: #808080;"><font color="black">Examples of Architectural Technical Drawings </font></span>
-- <span style="background-color: #808080;"><font color="red">2xFloor, 4xSection, 4xFront, ISO Expanding (A3) Plot Format<u><b><i> Autocad</i></b></u> </font></span>
+- <span style="background-color: #808080;"><font color="white">Drawing of a Single-Story Building - <u><b><i>21.09.2026 - saitberki</i></b></u> </font></span>
+- <span style="background-color: #808080;"><font color="white">Examples of Architectural Technical Drawings </font></span>
+- <span style="background-color: #808080;"><font color="white">2xFloor, 4xSection, 4xFront, ISO Expanding (A3) Plot Format<u><b><i> Autocad</i></b></u> </font></span>
 <br><br>
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/1-System%20Plan.png?raw=true" target="_blank">
  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/1-System%20Plan.png?raw=true" alt="System Plan" width="182px" height="128px">
@@ -33,9 +33,9 @@ function googleTranslateElementInit() {
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/10-Eastern%20Front.png?raw=true" target="_blank">
  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/10-Eastern%20Front.png?raw=true" alt="Eastern Front" width="182px" height="128px">
  <br><br>
-- <span style="background-color: #00FFFF;"><font color="black">Drawing of a Single-Story Building - <u><b><i>08.10.2026 - saitberki</i></b></u> </font></span>
-- <span style="background-color: #00FFFF;"><font color="black">Examples of Architectural Technical Drawings </font></span>
-- <span style="background-color: #00FFFF;"><font color="red">Details, ISO Expanding (A4) Plot Format<u><b><i> Autocad</i></b></u> </font></span>
+- <span style="background-color: #808080;"><font color="white">Drawing of a Single-Story Building - <u><b><i>08.10.2026 - saitberki</i></b></u> </font></span>
+- <span style="background-color: #808080;"><font color="white">Examples of Architectural Technical Drawings </font></span>
+- <span style="background-color: #808080;"><font color="white">Details, ISO Expanding (A4) Plot Format<u><b><i> Autocad</i></b></u> </font></span>
 <br><br>
 <a href="" target="_blank">
  <img src="" alt="" width="180px" height="254px">
@@ -53,8 +53,8 @@ function googleTranslateElementInit() {
 - E-Mail: <font color="blue">saitberkey@gmail.com</font>
 - WhatsApp: <font color="blue">+905377642823</font>
 - Instagram: <a href="https://www.instagram.com/saitberki/" target="_blank"><font color="blue">instagram.com/saitberki/</font></a>
-- <span style="background-color: #808080;"><font color="black">Vize - Final ve Bitirme Projeleriniz İçin Benimle İletişime Geçebilirsiniz.</font></span>
-- <span style="background-color: #808080;"><font color="black">You Can Contact me Regarding Your Midterm, Final, and Graduation Projects.</font></span>
+- <span style="background-color: #808080;"><font color="white">Vize - Final ve Bitirme Projeleriniz İçin Benimle İletişime Geçebilirsiniz.</font></span>
+- <span style="background-color: #808080;"><font color="white">You Can Contact me Regarding Your Midterm, Final, and Graduation Projects.</font></span>
 - <left><a href="https://www.freecounterstat.com" title="free hit counter"><img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=fag9hp94aa84ruq1dy528zy1gemahwd1" border="0" title="free hit counter" alt="free hit counter"></a></left> 
 <hr>
 <center>saitberki-Architectural/2026<a href="https://saitberki.github.io/Architectural/" target="_blank"><font color="blue">@github-webpage</font></a></center>
