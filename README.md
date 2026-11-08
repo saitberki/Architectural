@@ -6,8 +6,8 @@ function googleTranslateElementInit() {
 </script>
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
-- <span style="background-color: dark cyan;"><font color="white">Drawing of a Single-Story Building - <u><b><i>21.09.2026 - saitberki</i></b></u> </font></span>
-- <span style="background-color: dark cyan;"><font color="white">Examples of Architectural Technical Drawings </font></span>
+- <span style="background-color: #00FFFF;"><font color="white">Drawing of a Single-Story Building - <u><b><i>21.09.2026 - saitberki</i></b></u> </font></span>
+- <span style="background-color: #00FFFF;"><font color="white">Examples of Architectural Technical Drawings </font></span>
 - <span style="background-color: white;"><font color="red">2xFloor, 4xSection, 4xFront, ISO Expanding (A3) Plot Format<u><b><i>Autocad</i></b></u> </font></span>
 <br><br>
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/1-System%20Plan.png?raw=true" target="_blank">
@@ -33,8 +33,8 @@ function googleTranslateElementInit() {
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/10-Eastern%20Front.png?raw=true" target="_blank">
  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/10-Eastern%20Front.png?raw=true" alt="Eastern Front" width="182px" height="128px">
  <br><br>
-- <span style="background-color: black;"><font color="white">Drawing of a Single-Story Building - <u><b><i>08.10.2026 - saitberki</i></b></u> </font></span>
-- <span style="background-color: black;"><font color="white">Examples of Architectural Technical Drawings </font></span>
+- <span style="background-color: #00FFFF;"><font color="white">Drawing of a Single-Story Building - <u><b><i>08.10.2026 - saitberki</i></b></u> </font></span>
+- <span style="background-color: #00FFFF;"><font color="white">Examples of Architectural Technical Drawings </font></span>
 - <span style="background-color: white;"><font color="red">Details, ISO Expanding (A4) Plot Format<u><b><i>Autocad</i></b></u> </font></span>
 <br><br>
 <a href="" target="_blank">
