@@ -8,7 +8,7 @@ function googleTranslateElementInit() {
 
 - <span style="background-color: black;"><font color="white">Drawing of a Single-Story Building - <u><b><i>21.09.2026 - saitberki</i></b></u> </font></span>
 - <span style="background-color: black;"><font color="white">Examples of Architectural Technical Drawings </font></span>
-- <span style="background-color: black;"><font color="red">2xFloor, 4xSection, 4xFront, ISO Expanding (A3) Plot Format<u><b><i>Autocad</i></b></u> </font></span>
+- <span style="background-color: white;"><font color="red">2xFloor, 4xSection, 4xFront, ISO Expanding (A3) Plot Format<u><b><i>Autocad</i></b></u> </font></span>
 <br><br>
 <a href="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/1-System%20Plan.png?raw=true" target="_blank">
  <img src="https://github.com/saitberki/Berki-Architectural/blob/main/Architecture/1-System%20Plan.png?raw=true" alt="System Plan" width="182px" height="128px">
@@ -35,7 +35,7 @@ function googleTranslateElementInit() {
  <br><br>
 - <span style="background-color: black;"><font color="white">Drawing of a Single-Story Building - <u><b><i>08.10.2026 - saitberki</i></b></u> </font></span>
 - <span style="background-color: black;"><font color="white">Examples of Architectural Technical Drawings </font></span>
-- <span style="background-color: black;"><font color="red">Details, ISO Expanding (A4) Plot Format<u><b><i>Autocad</i></b></u> </font></span>
+- <span style="background-color: white;"><font color="red">Details, ISO Expanding (A4) Plot Format<u><b><i>Autocad</i></b></u> </font></span>
 <br><br>
 <a href="" target="_blank">
  <img src="" alt="" width="180px" height="254px">
