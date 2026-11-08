@@ -35,7 +35,7 @@ function googleTranslateElementInit() {
  <br><br>
 - <span style="background-color: black;"><font color="white">Drawing of a Single-Story Building - <u><b><i>08.10.2026 - saitberki</i></b></u> </font></span>
 - <span style="background-color: black;"><font color="white">Examples of Architectural Technical Drawings </font></span>
-- <span style="background-color: black;"><font color="white">Cross-Sections of Foundations, Stairs, Chimneys, Windows, and Doors Multiply Scale, <u><b><i>Autocad</i></b></u> </font></span>
+- <span style="background-color: black;"><font color="white">Details, <u><b><i>Autocad</i></b></u> </font></span>
 <br><br>
 <a href="" target="_blank">
  <img src="" alt="" width="180px" height="254px">
