@@ -35,7 +35,7 @@ function googleTranslateElementInit() {
  <br><br>
 - <span style="background-color: #00FFFF;"><font color="black">Drawing of a Single-Story Building - <u><b><i>08.10.2026 - saitberki</i></b></u> </font></span>
 - <span style="background-color: #00FFFF;"><font color="black">Examples of Architectural Technical Drawings </font></span>
-- <span style="background-color: white;"><font color="red">Details, ISO Expanding (A4) Plot Format<u><b><i> Autocad</i></b></u> </font></span>
+- <span style="background-color: #00FFFF;"><font color="red">Details, ISO Expanding (A4) Plot Format<u><b><i> Autocad</i></b></u> </font></span>
 <br><br>
 <a href="" target="_blank">
  <img src="" alt="" width="180px" height="254px">
