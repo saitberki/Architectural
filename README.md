@@ -50,6 +50,7 @@ function googleTranslateElementInit() {
 <br>
 <hr>
 <h5>#CONTACT (İLETİŞİM)</h5>
+<hr>
 - E-Mail: <font color="blue">saitberkey@gmail.com</font>
 - WhatsApp: <font color="blue">+905377642823</font>
 - Instagram: <a href="https://www.instagram.com/saitberki/" target="_blank"><font color="blue">instagram.com/saitberki/</font></a>
